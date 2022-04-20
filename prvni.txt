@@ -13,3 +13,4 @@ oprava chyby
 dfgdfgdgfdfgdgf
 posledni radek
 a tady bude konflikt
+a tady pridam komentar
