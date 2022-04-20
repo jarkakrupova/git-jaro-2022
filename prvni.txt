@@ -2,3 +2,6 @@ fkdlfsfds
 sdfsdfs
 dsdf
 zmena kvuli novemu tokenu
+zde je nova funkce {
+ktera neco dela
+}
