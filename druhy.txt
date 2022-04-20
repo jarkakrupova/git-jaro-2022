@@ -5,3 +5,5 @@ nova vetev
 prvni pokusny commit rrrrrrr
 opraveny commit 
 ssdfsdfsdfsf
+tady je nova funkce {
+}
