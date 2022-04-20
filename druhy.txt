@@ -7,3 +7,4 @@ opraveny commit
 ssdfsdfsdfsf
 tady je nova funkce {
 }
+posledni radek
